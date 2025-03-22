@@ -1,0 +1,2 @@
+Download Jenkins war
+type java -jar Jenkins.war
