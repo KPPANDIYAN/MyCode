@@ -1,2 +1,3 @@
 Download Jenkins war
 type java -jar Jenkins.war
+Hide the last seen.
